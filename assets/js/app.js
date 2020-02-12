@@ -4,8 +4,8 @@ var svgHeight = 660;
 var plotMargin = {
     top: 30,
     right: 30,
-    bottom: 30,
-    left: 30
+    bottom: 50,
+    left: 40
 };
 
 //plot area
